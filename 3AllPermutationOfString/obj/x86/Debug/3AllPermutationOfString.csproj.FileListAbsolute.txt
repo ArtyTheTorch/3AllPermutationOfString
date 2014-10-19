@@ -1,0 +1,14 @@
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\bin\Debug\3AllPermutationOfString.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\bin\Debug\3AllPermutationOfString.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\_3AllPermutationOfString.Form1.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\_3AllPermutationOfString.Properties.Resources.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.csproj.GenerateResource.Cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.pdb
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.exe
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.pdb
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\bin\Debug\3AllPermutationOfString.exe
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\bin\Debug\3AllPermutationOfString.pdb
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\_3AllPermutationOfString.Form1.resources
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\_3AllPermutationOfString.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\3AllPermutationOfString\3AllPermutationOfString\obj\x86\Debug\3AllPermutationOfString.csproj.GenerateResource.Cache

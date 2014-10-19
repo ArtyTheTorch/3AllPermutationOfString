@@ -1,0 +1,7 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\bin\Debug\2AllPermutationOfString.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\bin\Debug\2AllPermutationOfString.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\obj\x86\Debug\_2AllPermutationOfString.Form1.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\obj\x86\Debug\_2AllPermutationOfString.Properties.Resources.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\obj\x86\Debug\2AllPermutationOfString.csproj.GenerateResource.Cache
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\obj\x86\Debug\2AllPermutationOfString.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\2AllPermutationOfString\obj\x86\Debug\2AllPermutationOfString.pdb
